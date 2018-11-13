@@ -4,5 +4,6 @@ public class User {
 		System.out.println("hot_fix");
 		System.out.println("remote");
 		System.out.println("this cause is from local");
+		System.out.println("this cause is from remote");
 	}	
 }
