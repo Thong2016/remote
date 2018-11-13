@@ -7,5 +7,6 @@ public class User {
 		System.out.println("this cause is from remote");
 		System.out.println("test push");
 		System.out.println("local master");
+		System.out.println("local dev");
 	}	
 }
