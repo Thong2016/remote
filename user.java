@@ -8,5 +8,6 @@ public class User {
 		System.out.println("test push");
 		System.out.println("local master");
 		System.out.println("local dev");
+		System.out.println("test fetch and merge");
 	}	
 }
