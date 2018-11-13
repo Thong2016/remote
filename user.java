@@ -9,5 +9,6 @@ public class User {
 		System.out.println("local master");
 		System.out.println("local dev");
 		System.out.println("test fetch and merge");
+		System.out.println("test ssh");
 	}	
 }
